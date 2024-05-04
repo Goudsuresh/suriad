@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suriad/static/css/main.bd585362.css",
+    "main.js": "/suriad/static/js/main.29fd0476.js",
+    "static/js/453.1b6cbde4.chunk.js": "/suriad/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/suriad/index.html",
+    "main.bd585362.css.map": "/suriad/static/css/main.bd585362.css.map",
+    "main.29fd0476.js.map": "/suriad/static/js/main.29fd0476.js.map",
+    "453.1b6cbde4.chunk.js.map": "/suriad/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd585362.css",
+    "static/js/main.29fd0476.js"
+  ]
+}
